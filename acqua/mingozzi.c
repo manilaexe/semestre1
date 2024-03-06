@@ -47,8 +47,8 @@ int distanza(int x, int y){//fornisce la distanza euclidea
 
 }
 
-void intervento(id a[100], int size){ //calcola la squadra che arriva alla massima distranza 
-    //deve incovare la distanza euclidea
+void intervento(id a[100], int size){ //calcola la squadra che arriva alla massima distanza
+
     int max=0;
     id mag;
 
